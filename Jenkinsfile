@@ -7,6 +7,11 @@ pipeline {
     }
 
     stages {
+        stage('prepare') {
+          steps {
+               echo "hello world"
+          }
+        }
         stage('Build') {
             steps {
                 
