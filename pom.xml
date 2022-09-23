@@ -20,4 +20,17 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <distributionManagement>
+    <repository>
+      <id>accountservice-releases</id>
+      <name>accountservice-releases</name>
+      <url>http://13.126.14.24:8081/repository/accountservice-releases/</url>
+    </repository>
+    <snapshotRepository>
+      <id>accountservice-snapshots</id>
+      <name>accountservice-snapshots</name>
+      <url>http://13.126.14.24:8081/repository/accountservice-snapshots/</url>
+    </snapshotRepository>
+  </distributionManagement>
+  
 </project>
