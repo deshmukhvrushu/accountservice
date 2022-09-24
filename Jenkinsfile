@@ -12,7 +12,7 @@ pipeline {
                echo "hello world"
           }
         }
-         stage('Build') {
+         stage('docker') {
             steps {
                 
                git branch: 'main', url: 'https://github.com/qf-app/accountservice.git'
