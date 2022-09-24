@@ -24,12 +24,12 @@
     <repository>
       <id>accountservice-releases</id>
       <name>accountservice-releases</name>
-      <url>http://172.31.32.199:8081/repository/accountservice-releases/</url>
+      <url>http://52.66.56.30:8081/repository/accountservice-releases/</url>
     </repository>
     <snapshotRepository>
       <id>accountservice-snapshots</id>
       <name>accountservice-snapshots</name>
-      <url>http://172.31.32.199:8081/repository/accountservice-snapshots/</url>
+      <url>http://52.66.56.30:8081/repository/accountservice-snapshots/</url>
     </snapshotRepository>
   </distributionManagement>
   
