@@ -22,14 +22,14 @@
   </dependencies>
   <distributionManagement>
     <repository>
-      <id>accountservice-releases</id>
-      <name>accountservice-releases</name>
-      <url>http://52.66.56.30:8081/repository/accountservice-releases/</url>
+      <id>accountinfo-releases</id>
+      <name>accountinfo-releases</name>
+      <url>http://ec2-18-218-82-196.us-east-2.compute.amazonaws.com:8081/repository/accountinfo-releases/</url>
     </repository>
     <snapshotRepository>
-      <id>accountservice-snapshots</id>
-      <name>accountservice-snapshots</name>
-      <url>http://52.66.56.30:8081/repository/accountservice-snapshots/</url>
+      <id>accountinfo-snapshots</id>
+      <name>accountinfo-snapshots</name>
+      <url>http://ec2-18-218-82-196.us-east-2.compute.amazonaws.com:8081/repository/accountinfo-snapshots/</url>
     </snapshotRepository>
   </distributionManagement>
   
