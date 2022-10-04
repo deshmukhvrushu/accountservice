@@ -3,14 +3,14 @@
 
       <servers>
         <server>
-          <id>accountservice-snapshots</id>
-          <username>accountservice-user</username>
-          <password>accountservice-user</password>
+          <id>accountinfo-snapshots</id>
+          <username>accountinfo</username>
+          <password>accountinfo</password>
         </server>
         <server>
-          <id>accountservice-releases</id>
-          <username>accountservice-user</username>
-          <password>accountservice-user</password>
+          <id>accountinfo-releases</id>
+          <username>accountinfo</username>
+          <password>accountinfo</password>
         </server>
       </servers>
 
